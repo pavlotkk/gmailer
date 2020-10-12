@@ -8,21 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b9328ab-26d5-4226-aff5-25650ac17044" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gmailer.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmailer.sln" afterDir="false" />
+    <list default="true" id="2b9328ab-26d5-4226-aff5-25650ac17044" name="Default Changelist" comment="Read gmail inbox example">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gmailer/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +28,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/credentials.json" />
         <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -95,8 +83,16 @@
       <option name="presentableId" value="Default" />
       <updated>1602496284622</updated>
       <workItem from="1602496287745" duration="149000" />
-      <workItem from="1602496514431" duration="7361000" />
+      <workItem from="1602496514431" duration="7441000" />
     </task>
+    <task id="LOCAL-00001" summary="Read gmail inbox example">
+      <created>1602510165000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602510165000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Read gmail inbox example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Read gmail inbox example" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1493" height="330" key="GridCell.Tab.0.bottom" timestamp="1602509973828">
